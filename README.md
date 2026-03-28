@@ -1,15 +1,15 @@
-# product management system 
+product management system 
 
 product management system is a simple backend project. it describes how to organize code using folders and multiple files. the output includes getting product data , processing it as well as showing the result.
 
-# objective 
+objective 
 
 learn the python basic programming 
 how to split the code into multiple files 
 understand and practice simple backend logic
 use git for version control
 
-## project structure 
+project structure 
 
 python-practice/
 │
@@ -21,20 +21,20 @@ python-practice/
     └── main.py
 
 
-## working 
+working 
 
 product.py : return a list of products 
 formatter.py : counts total product and generate output
 main.py : combine and connects , hence print the result
 
-## how to run:
+how to run:
 
 in project folder, run the command as
 python src/main.py
 
-## output : 
+output : 
 Total items : 4
 
-# features :
+features :
 simple and understandable code
 seperate files for each task
